@@ -1,10 +1,10 @@
+
 # Readme Generator
-A Node.js command line tool for creating a readme file
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This project generates a markdown readme file based upon user input.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The node package manager inquirer package is used to provide a command line interface for the application.
-
-[Link to the repository](https://github.com/pkriengsiri/readme-generator)
   
 ## Table of Contents
 * [Installation](#installation)
@@ -19,19 +19,11 @@ This project generates a markdown readme file based upon user input.  The applic
 From GitHub, fork the repo all upload all contents to the deployed webserver (or deploy using GitHub Pages).  The server must have Node.js installed.  Once forked, run ```npm i``` from the root directory to install required dependencies.
   
 ## Usage
-From the application's root directory, run ```node index.js```.  Follow the user prompts to provide content for the readme file.  Upon completion, the application will generate a new file, ```SAMPLE_README.md```, in the root directory.
-
-![application screenshot](./assets/images/app_screenshot.PNG)
-
-[Link to video demo]()
+From the application's root directory, run ```node index.js```.  Follow the user prompts to provide content for the readme file.
   
 ## Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort.
-
-### References
-* https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-* https://www.markdownguide.org/cheat-sheet   
-* https://www.npmjs.com/package/inquirer#documentation 
+  
 
 ## License
 This application is covered under MIT License
@@ -43,7 +35,7 @@ This application is covered under MIT License
 
 ```
 
-
+Copyright (c) 2021  Pete Kriengsiri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -70,8 +62,9 @@ SOFTWARE.
 ## Contributing
 No contributions are being accepted at this time.
   
+## Tests 
+There are currently no tests for this application.  
 
-
-
-
-
+## Questions
+Contact me via [email](mailto:pkriengsiri@gmail.com).
+View my GitHub [profile](https://github.com/pkriengsiri).
