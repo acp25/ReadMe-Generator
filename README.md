@@ -16,10 +16,10 @@ This project generates a markdown readme file based upon user input.  The applic
 * [Questions](#questions)
   
 ## Installation
-From GitHub, fork the repo all upload all contents to the deployed webserver (or deploy using GitHub Pages).  The server must have Node.js installed.  Once forked, run ```npm i``` from the root directory to install required dependencies.
+Clone the repository. Also install the inquirer package to use this application.
   
 ## Usage
-From the application's root directory, run ```node index.js```.  Follow the user prompts to provide content for the readme file.  Upon completion, the application will generate a new file, ```SAMPLE_README.md```, in the root directory.
+From the application's root directory, run node index.js.  Follow the user prompts to provide content for the readme file.  Once completed, the application will generate a new sample readme file, in the root directory.
 
 ![application screenshot](./assets/images/app_screenshot.PNG)
 
@@ -28,10 +28,7 @@ From the application's root directory, run ```node index.js```.  Follow the user
 ## Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort.
 
-### References
-* https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-* https://www.markdownguide.org/cheat-sheet   
-* https://www.npmjs.com/package/inquirer#documentation 
+
 
 ## License
 This application is covered under MIT License
