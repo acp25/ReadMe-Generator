@@ -9,11 +9,12 @@ This project generates a markdown readme file based upon user input.  The applic
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Links](#links)
 * [Credits](#credits)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+
+
+
   
 ## Installation
 Clone the repository. Also install the inquirer package to use this application.
