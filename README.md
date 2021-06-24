@@ -21,7 +21,9 @@ Clone the repository. Also install the inquirer package to use this application.
 ## Usage
 From the application's root directory, run node index.js.  Follow the user prompts to provide content for the readme file.  Once completed, the application will generate a new sample readme file, in the root directory.
 
-![application screenshot](./assets/images/app_screenshot.PNG)
+
+![image](https://user-images.githubusercontent.com/60405505/123342126-2e26e180-d51d-11eb-8453-17ded27133a5.png)
+
 
 [Link to video demo]()
   
