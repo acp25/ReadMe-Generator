@@ -18,8 +18,11 @@ Please clone a repositry from Github.
   
 ## Usage
 ![image](https://user-images.githubusercontent.com/60405505/123338908-97a3f180-d517-11eb-9f6f-3401a8b01a3d.png)
-SAMPLE_README.md - readme-generator-main - Visual Studio Code 2021-06-24 18-21-47
 
+
+## Credits
+Created by Alex Philibert
+Node.js
 
   
 
