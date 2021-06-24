@@ -4,7 +4,7 @@ A Node.js command line tool for creating a readme file
 ## Description
 This project generates a markdown readme file based upon user input.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The node package manager inquirer package is used to provide a command line interface for the application.
 
-[Link to the repository](https://github.com/pkriengsiri/readme-generator)
+
   
 ## Table of Contents
 * [Installation](#installation)
