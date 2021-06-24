@@ -18,7 +18,9 @@ Please clone a repositry from Github.
   
 ## Usage
 ![image](https://user-images.githubusercontent.com/60405505/123338908-97a3f180-d517-11eb-9f6f-3401a8b01a3d.png)
-Video Link: https://youtu.be/aK7QqV6uU-4
+
+Video Link: 
+https://youtu.be/aK7QqV6uU-4
 
 ## Credits
 Created by Alex Philibert
