@@ -17,6 +17,7 @@ This project generates a markdown readme file based upon user input by using Nod
 Please clone a repositry from Github. 
   
 ## Usage
+![image](https://user-images.githubusercontent.com/60405505/123338908-97a3f180-d517-11eb-9f6f-3401a8b01a3d.png)
 
   
 
