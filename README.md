@@ -27,10 +27,9 @@ From the application's root directory, run node index.js.  Follow the user promp
 
 [Link to video demo]()
   
+
 ## Credits
-Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort.
-
-
+Created by Alex Philibert
 
 ## License
 This application is covered under MIT License
