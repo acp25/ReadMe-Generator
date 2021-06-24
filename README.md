@@ -1,8 +1,8 @@
 # Readme Generator
-A Node.js command line tool for creating a readme file
+Using Node.js to create a Readme.md.
 
 ## Description
-This project generates a markdown readme file based upon user input.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The node package manager inquirer package is used to provide a command line interface for the application.
+This project generates a markdown readme file based upon user input by using Node.js.  
 
 [Link to the repository](https://github.com/pkriengsiri/readme-generator)
   
@@ -11,16 +11,12 @@ This project generates a markdown readme file based upon user input.  The applic
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
   
 ## Installation
-From GitHub, fork the repo all upload all contents to the deployed webserver (or deploy using GitHub Pages).  The server must have Node.js installed.  Once forked, run ```npm i``` from the root directory to install required dependencies.
+Please clone a repositry from Github. 
   
 ## Usage
-From the application's root directory, run ```node index.js```.  Follow the user prompts to provide content for the readme file.  Upon completion, the application will generate a new file, ```SAMPLE_README.md```, in the root directory
-
 
   
 
